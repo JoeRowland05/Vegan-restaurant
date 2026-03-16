@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: darkblue;
+}
+
+header img {
+    height: 60px;
+}
+
+header nav a {
+    margin-left: 20px;
+    color: darkblue;
+}
