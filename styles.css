@@ -27,13 +27,49 @@ header nav a {
 
 #menu h3 {
     margin-top: 20px;
-    color: lightblue;
+    color: darkblue;
+    text-align: center;
 }
 
 #menu ul{
 padding-left: 0;
+text-align: center;
 }
 
 #menu li{
     margin-bottom: 10px;
+}
+
+#booking {
+    padding: 20px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+#booking {
+    color: darkblue;
+    margin-bottom: 15px;
+}
+
+#booking p {
+    margin-bottom: 10px;
+    color: black;
+    font-size: 16px;
+}
+
+#location{
+    padding: 20px;
+    background-color: lightgrey ;
+    text-align: center;
+}
+
+#location h2{
+    color: darkblue;
+    margin-bottom: 15px;
+}
+
+#location p {
+    margin-bottom: 15px;
+    color: black;
+    font-size: 16px;
 }
