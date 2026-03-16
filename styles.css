@@ -14,3 +14,26 @@ header nav a {
     margin-left: 20px;
     color: darkblue;
 }
+
+#menu {
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+#menu h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+#menu h3 {
+    margin-top: 20px;
+    color: lightblue;
+}
+
+#menu ul{
+padding-left: 0;
+}
+
+#menu li{
+    margin-bottom: 10px;
+}
