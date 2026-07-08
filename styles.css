@@ -1,0 +1,98 @@
+body {
+    background-color: wheat;
+    color: darkblue;
+}
+
+
+.navbar {
+    background-color: darkblue;
+    padding: 15px;
+}
+
+
+.navbar-brand {
+    color: white;
+}
+
+
+.nav-link {
+    color: white;
+}
+
+
+.nav-link:hover {
+    color: wheat;
+}
+
+
+h1 {
+    color: darkblue;
+    margin-top: 20px;
+}
+
+
+h2 {
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+h3 {
+    color: darkblue;
+    margin-top: 20px;
+}
+
+
+p {
+    color: black;
+}
+
+
+.card {
+    background-color: white;
+    border: none;
+    margin-bottom: 20px;
+}
+
+
+.card-title {
+    color: darkblue;
+}
+
+
+#booking {
+    background-color: white;
+    padding: 20px;
+}
+
+
+.form-control {
+    margin-top: 10px;
+}
+
+
+.btn {
+    background-color: darkblue;
+    color: white;
+}
+
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+
+#location {
+    background-color: white;
+    padding: 20px;
+}
+
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}   
