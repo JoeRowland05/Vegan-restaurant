@@ -3,63 +3,52 @@ body {
     color: darkblue;
 }
 
-
 .navbar {
     background-color: darkblue;
-    padding: 15px;
+    padding: 5px 15px;
 }
-
 
 .navbar-brand {
-    color: white;
     display: flex;
     align-items: center;
+    color: white;
+    font-size: 20px;
 }
-
 
 .navbar-brand img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
     margin-right: 10px;
 }
-
 
 .nav-link {
     color: white;
 }
 
-
 .nav-link:hover {
     color: wheat;
 }
 
-
-h1 {
-    color: darkblue;
-}
-
-
 h2 {
     color: darkblue;
     text-align: center;
+    margin-bottom: 30px;
 }
-
 
 h3 {
     color: darkblue;
 }
 
-
 p {
     color: black;
 }
 
-
 .card {
     background-color: white;
     border: none;
+    margin-bottom: 20px;
 }
-
 
 .card-title {
     color: darkblue;
@@ -71,11 +60,9 @@ p {
     padding: 20px;
 }
 
-
 .form-control {
     margin-top: 10px;
 }
-
 
 .btn {
     background-color: darkblue;
@@ -95,9 +82,19 @@ p {
 }
 
 
+#location img {
+    margin-top: 15px;
+}
+
+
 footer {
     background-color: darkblue;
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+
+footer p {
+    color: white;
 }
